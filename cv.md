@@ -25,16 +25,6 @@ const deleteSymbol = (str, symbol) => {
   return result;
 };
 ```
-```
-elem.onclick = function() {
-   document.getElementById("myDIV").style.background;
-    if(myDIV.style.background == "green"){
-     myDIV.style.background = "white";
-    }else{
-     myDIV.style.background = "green";
-  }
-}
-```
 ## Education
 * Completed [Netology: Basics of HTML and CSS](https://netology.ru/profile/6714701)
 * Completed [Head First HTML and CSS](https://www.amazon.com/Head-First-HTML-CSS-Standards-Based-ebook/dp/B00AF57GAW)
