@@ -43,3 +43,4 @@ elem.onclick = function() {
 * Studying [Front-end course](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr) (now on CSS display - lesson 7)
 ## English
 Intermediate level.\
+Completed Exam Preparation course at Advanced - Level 8 at Hansa Language Centre.
